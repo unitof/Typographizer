@@ -122,6 +122,7 @@ To get started, try the included demo app for macOS.
 
 ## To Do
 
+- [ ] Convert double hyphens (`…--…`) to em dashes (`…—…`)
 - [ ] Handle special cases like ’80s, ’Twas, Rock ’n’ Roll, etc.
 - [ ] Handle primes in coordinates properly:  
 52°&nbsp;27'&nbsp;20"&nbsp;N, 13°&nbsp;19'&nbsp;11"&nbsp;E → 52°&nbsp;27′&nbsp;20″&nbsp;N, 13°&nbsp;19′&nbsp;11″&nbsp;E
